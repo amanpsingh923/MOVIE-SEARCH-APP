@@ -13,4 +13,4 @@ MENTOR NAME: Neela Santhosh Kumar
 #DESCRIPTION A Movie Search App created using React.js . OMDB api id used for fetching data of movies. Library used-React.js Tools used -VS code,Brave. Resources-OMDB,Chatgpt,Youtube,Github.
 
 OUTPUT
-https://github.com/amanpsingh923/MOVIE-SEARCH-APP/issues/1#issue-2780386085
+![output](https://github.com/user-attachments/assets/c87bd8ac-b4f4-42bd-92b6-fc4ec8e44ebc)
