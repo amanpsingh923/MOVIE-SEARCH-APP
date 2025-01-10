@@ -1,0 +1,9 @@
+'ERR_PACKAGE_PATH_NOT_EXPORTED' for this problem use {npm config set legacy-peer-deps true & npm update}
+opensslErrorStack: [
+    'error:03000086:digital envelope routines::initialization error',
+    'error:0308010C:digital envelope routines::unsupported'
+  ],
+  library: 'digital envelope routines',
+  reason: 'unsupported',
+  code: 'ERR_OSSL_EVP_UNSUPPORTED'
+  for this add "start": "react-scripts --openssl-legacy-provider start" in package.jason scripts.
